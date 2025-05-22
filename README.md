@@ -32,7 +32,7 @@ The Django ToDo App is a web-based application designed to help users manage the
 
 ## Homepage
 
-![image alt]([image_url](https://github.com/Sahilkadolkar12/CRUD_Operation_Todo_list_APP/blob/4c6729edf54fba2dd7968966b6f58bac032fd9dd/home_page.png))
+![image alt]()
 
 ## Login
 
