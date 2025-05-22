@@ -37,31 +37,26 @@ The Django ToDo App is a web-based application designed to help users manage the
 ![image alt](https://github.com/Sahilkadolkar12/CRUD_Operation_Todo_list_APP/blob/main/login.png?raw=true)
 
 ## Register
-![image alt](https://github.com/Sahilkadolkar12/CRUD_Operation_Todo_list_APP/blob/main/register.png?raw=true)
+![image alt (https://github.com/Sahilkadolkar12/CRUD_Operation_Todo_list_APP/blob/main/register.png?raw=true)
 
 ## Profile
-
-![](demo/profile.png)
+![image alt](https://github.com/Sahilkadolkar12/CRUD_Operation_Todo_list_APP/blob/main/profile.png?raw=true)
 
 ## Password reset
-
-![](demo/password_reset.png)
+![image alt](https://github.com/Sahilkadolkar12/CRUD_Operation_Todo_list_APP/blob/main/password_reset.png?raw=true)
 
 ## Password reset done
-
-![](demo/password_reset_done.png)
+![image alt](https://github.com/Sahilkadolkar12/CRUD_Operation_Todo_list_APP/blob/main/password_reset_done.png?raw=true)
 
 ## Password reset email
 
 ![](demo/password_reset_email.jpg)
 
 ## Password reset conf
-
-![](demo/password_reset_conf.png)
+![image alt](https://github.com/Sahilkadolkar12/CRUD_Operation_Todo_list_APP/blob/main/password_reset_conf.png?raw=true)
 
 ## Password reset complete
-
-![](demo/password_reset_complete.png)
+![image alt](https://github.com/Sahilkadolkar12/CRUD_Operation_Todo_list_APP/blob/main/password_reset_complete.png?raw=true)
 
 ## Tasks list
 
