@@ -33,11 +33,13 @@ The Django ToDo App is a web-based application designed to help users manage the
 ## Homepage
 ![image alt](https://github.com/Sahilkadolkar12/CRUD_Operation_Todo_list_APP/blob/main/home_page.png?raw=true)
 
+![image alt](https://github.com/Sahilkadolkar12/CRUD_Operation_Todo_list_APP/blob/main/auth_home_page.png?raw=true)
+
 ## Login
 ![image alt](https://github.com/Sahilkadolkar12/CRUD_Operation_Todo_list_APP/blob/main/login.png?raw=true)
 
 ## Register
-![image alt (https://github.com/Sahilkadolkar12/CRUD_Operation_Todo_list_APP/blob/main/register.png?raw=true)
+![image alt](https://github.com/Sahilkadolkar12/CRUD_Operation_Todo_list_APP/blob/main/register.png?raw=true)
 
 ## Profile
 ![image alt](https://github.com/Sahilkadolkar12/CRUD_Operation_Todo_list_APP/blob/main/profile.png?raw=true)
@@ -49,8 +51,8 @@ The Django ToDo App is a web-based application designed to help users manage the
 ![image alt](https://github.com/Sahilkadolkar12/CRUD_Operation_Todo_list_APP/blob/main/password_reset_done.png?raw=true)
 
 ## Password reset email
+![image alt](https://github.com/Sahilkadolkar12/CRUD_Operation_Todo_list_APP/blob/main/password_reset_email.jpg?raw=true)
 
-![](demo/password_reset_email.jpg)
 
 ## Password reset conf
 ![image alt](https://github.com/Sahilkadolkar12/CRUD_Operation_Todo_list_APP/blob/main/password_reset_conf.png?raw=true)
@@ -59,21 +61,17 @@ The Django ToDo App is a web-based application designed to help users manage the
 ![image alt](https://github.com/Sahilkadolkar12/CRUD_Operation_Todo_list_APP/blob/main/password_reset_complete.png?raw=true)
 
 ## Tasks list
-
-![](demo/tasks.png)
+![image alt](https://github.com/Sahilkadolkar12/CRUD_Operation_Todo_list_APP/blob/main/tasks_with_data.png?raw=true)
 
 ## Create task
-
-![](demo/create_task.png)
+![image alt](https://github.com/Sahilkadolkar12/CRUD_Operation_Todo_list_APP/blob/main/create_task.png?raw=true)
 
 ## Tasks list
-
-![](demo/tasks_with_data.png)
+![image alt](https://github.com/Sahilkadolkar12/CRUD_Operation_Todo_list_APP/blob/main/tasks_with_data.png?raw=true)
 
 ## Logout
-
 Goes [back to login page](#login)
 
 # End
 
-> Good luck, more detail go to [pythontutorial.net](https://www.pythontutorial.net/django-tutorial)
+
